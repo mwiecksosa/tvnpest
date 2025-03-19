@@ -1,2 +1,2 @@
-# tvnp
-Time-varying nonparametric estimation
+# tvnpest
+Nonparametric estimation of time-varying means, correlations, and more
